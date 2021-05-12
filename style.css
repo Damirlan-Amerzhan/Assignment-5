@@ -1,0 +1,18 @@
+h1 {
+  border-style: solid;
+  width: 70%;
+  color: darkkhaki
+}
+
+h2 {
+  color: white
+}
+
+button {
+  color: darkcyan;
+  background-color: lightgrey;
+}
+
+p {
+  color: white
+}
